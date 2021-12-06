@@ -1,0 +1,2 @@
+# GitHubTemplateTest
+GitHubのTemplate系のテストディレクトリです
