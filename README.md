@@ -1,2 +1,3 @@
 # GitHubTemplateTest
 GitHubのTemplate系のテストディレクトリです
+プルリクのテンプレとIssueのテンプレを置いてます
